@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="TREE">
+	<text>
+		<body>
+	<div type="edition" xml:lang="lat" n="urn:cts:latinLit:phi0472.phi001.perseus-lat2">
+	<div type="textpart" subtype="Lyrics">
+		<div type="textpart" subtype="poem" n="16">
+			<l n="1">Pedicabo ego vos et irrumabo,</l>
+			<l n="2">Aureli pathice et cinaede Furi,</l>
+			<l n="3">qui me ex versiculis meis putastis,</l>
+			<l n="4">quod sunt molliculi, parum pudicum.</l>
+			<l n="5">nam castum esse decet pium poetam</l>
+			<l n="6">ipsum, versiculos nihil necesse est,</l>
+			<l n="7">qui tum denique habent salem ac leporem,</l>
+			<l n="8">si sunt molliculi ac parum pudici</l>
+			<l n="9">et quod pruriat incitare possunt,</l>
+			<l n="10">non dico pueris, sed his pilosis,</l>
+			<l n="11">qui duros nequeunt movere lumbos.</l>
+			<l n="12">vos quod milia multa basiorum</l>
+			<l n="13">legistis, male me marem putatis?</l>
+			<l n="14">pedicabo ego vos et irrumabo.</l>
+		</div>
+	</div>
+</div>
+</body>
+</text>
+</TEI>
